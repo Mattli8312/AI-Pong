@@ -1,5 +1,5 @@
 # AI-Pong
-Built Pong Game and constructed AI using python modules. 
+Built Pong Game and constructed an algorithm for the bot's movements using python modules. 
 
 Day 1:
 
